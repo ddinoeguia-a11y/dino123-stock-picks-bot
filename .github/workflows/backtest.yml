@@ -1,0 +1,30 @@
+name: backtest
+on:
+  schedule:
+    - cron: "17 23 * * 0"   # Sundays 5:17 PM Central
+  workflow_dispatch:
+    inputs:
+      years: { description: "Years of history", default: "3" }
+permissions:
+  contents: write
+concurrency: { group: results, cancel-in-progress: false }
+jobs:
+  backtest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -r requirements.txt
+      - run: python -m bot.backtest --years ${{ github.event.inputs.years || '3' }}
+        env:
+          ALPACA_KEY_ID: ${{ secrets.ALPACA_KEY_ID }}
+          ALPACA_SECRET_KEY: ${{ secrets.ALPACA_SECRET_KEY }}
+          SEC_CONTACT_EMAIL: ${{ secrets.SEC_CONTACT_EMAIL }}
+      - name: Save results
+        run: |
+          git config user.name "scan-bot"
+          git config user.email "scan-bot@users.noreply.github.com"
+          git add results
+          git diff --cached --quiet || git commit -m "backtest $(date -u +%FT%TZ)"
+          git pull --rebase && git push

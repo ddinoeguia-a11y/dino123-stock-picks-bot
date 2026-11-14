@@ -1,0 +1,139 @@
+{
+  "generated_utc": "2026-11-14T22:49:51",
+  "years": 3,
+  "method": "daily bars; entry at open; worst case if stop and target both touched; 0.05% cost per side",
+  "stocks": {
+    "gap_and_go": {
+      "trades": 1811,
+      "win_rate": 0.382,
+      "avg_return_pct": -0.218,
+      "best_pct": 12.78,
+      "worst_pct": -7.44,
+      "account_growth_pct_10pct_sizing": -33.34,
+      "max_drawdown_pct": 35.21,
+      "worst_losing_streak": 23
+    },
+    "gap_fade": {
+      "trades": 427,
+      "win_rate": 0.422,
+      "avg_return_pct": 0.2,
+      "best_pct": 12.55,
+      "worst_pct": -10.91,
+      "account_growth_pct_10pct_sizing": 8.58,
+      "max_drawdown_pct": 5.45,
+      "worst_losing_streak": 9
+    },
+    "gapdown_bounce": {
+      "trades": 525,
+      "win_rate": 0.432,
+      "avg_return_pct": 0.408,
+      "best_pct": 14.71,
+      "worst_pct": -7.48,
+      "account_growth_pct_10pct_sizing": 23.3,
+      "max_drawdown_pct": 4.23,
+      "worst_losing_streak": 10
+    },
+    "insider_cluster_1day": {
+      "trades": 242,
+      "win_rate": 0.455,
+      "avg_return_pct": -0.22,
+      "best_pct": 5.76,
+      "worst_pct": -4.97,
+      "account_growth_pct_10pct_sizing": -5.22,
+      "max_drawdown_pct": 6.4,
+      "worst_losing_streak": 7
+    },
+    "insider_cluster_5day": {
+      "trades": 237,
+      "win_rate": 0.38,
+      "avg_return_pct": -0.674,
+      "best_pct": 10.77,
+      "worst_pct": -10.12,
+      "account_growth_pct_10pct_sizing": -14.93,
+      "max_drawdown_pct": 17.03,
+      "worst_losing_streak": 15
+    },
+    "gap_and_go + insiders bought (30d)": {
+      "trades": 130,
+      "win_rate": 0.462,
+      "avg_return_pct": 0.128,
+      "best_pct": 10.58,
+      "worst_pct": -5.65,
+      "account_growth_pct_10pct_sizing": 1.61,
+      "max_drawdown_pct": 2.68,
+      "worst_losing_streak": 8
+    },
+    "gap_and_go + no insider buying": {
+      "trades": 1681,
+      "win_rate": 0.376,
+      "avg_return_pct": -0.245,
+      "best_pct": 12.78,
+      "worst_pct": -7.44,
+      "account_growth_pct_10pct_sizing": -34.4,
+      "max_drawdown_pct": 36.23,
+      "worst_losing_streak": 23
+    },
+    "gap_fade + insiders bought (30d)": {
+      "trades": 25,
+      "win_rate": 0.44,
+      "avg_return_pct": -0.643,
+      "best_pct": 7.86,
+      "worst_pct": -5.44,
+      "account_growth_pct_10pct_sizing": -1.61,
+      "max_drawdown_pct": 2.34,
+      "worst_losing_streak": 6
+    },
+    "gap_fade + no insider buying": {
+      "trades": 402,
+      "win_rate": 0.42,
+      "avg_return_pct": 0.252,
+      "best_pct": 12.55,
+      "worst_pct": -10.91,
+      "account_growth_pct_10pct_sizing": 10.35,
+      "max_drawdown_pct": 4.86,
+      "worst_losing_streak": 9
+    },
+    "gapdown_bounce + insiders bought (30d)": {
+      "trades": 24,
+      "win_rate": 0.667,
+      "avg_return_pct": 2.407,
+      "best_pct": 9.31,
+      "worst_pct": -4.7,
+      "account_growth_pct_10pct_sizing": 5.91,
+      "max_drawdown_pct": 0.92,
+      "worst_losing_streak": 3
+    },
+    "gapdown_bounce + no insider buying": {
+      "trades": 501,
+      "win_rate": 0.421,
+      "avg_return_pct": 0.313,
+      "best_pct": 14.71,
+      "worst_pct": -7.48,
+      "account_growth_pct_10pct_sizing": 16.41,
+      "max_drawdown_pct": 4.13,
+      "worst_losing_streak": 12
+    }
+  },
+  "crypto": {
+    "momentum": {
+      "trades": 668,
+      "win_rate": 0.374,
+      "avg_return_pct": -0.553,
+      "best_pct": 14.18,
+      "worst_pct": -9.7,
+      "account_growth_pct_10pct_sizing": -31.25,
+      "max_drawdown_pct": 33.42,
+      "worst_losing_streak": 11
+    },
+    "reversal": {
+      "trades": 252,
+      "win_rate": 0.325,
+      "avg_return_pct": -1.282,
+      "best_pct": 17.54,
+      "worst_pct": -11.01,
+      "account_growth_pct_10pct_sizing": -27.84,
+      "max_drawdown_pct": 29.23,
+      "worst_losing_streak": 13
+    }
+  }
+}
