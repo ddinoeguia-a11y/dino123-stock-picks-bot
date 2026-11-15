@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-14T23:14:56",
+  "generated_utc": "2026-11-15T02:32:58",
   "note": "Paper tracking only. Ideas, not orders.",
   "stocks": [
     {
@@ -178,88 +178,7 @@
       "label": "not proven"
     }
   ],
-  "crypto": [
-    {
-      "market": "crypto",
-      "symbol": "AVAX/USD",
-      "strategy": "reversal",
-      "side": "long",
-      "price": 6.9847,
-      "stop": 6.6702,
-      "target": 7.6135,
-      "prev_day_pct": -14.46,
-      "volatility": "volatile",
-      "backtest_win_rate": 0.325,
-      "backtest_avg_pct": -1.282,
-      "proven": false,
-      "score": 14.46,
-      "label": "not proven"
-    },
-    {
-      "market": "crypto",
-      "symbol": "DOGE/USD",
-      "strategy": "reversal",
-      "side": "long",
-      "price": 0.0562,
-      "stop": 0.0541,
-      "target": 0.0604,
-      "prev_day_pct": -12.37,
-      "volatility": "volatile",
-      "backtest_win_rate": 0.325,
-      "backtest_avg_pct": -1.282,
-      "proven": false,
-      "score": 12.37,
-      "label": "not proven"
-    },
-    {
-      "market": "crypto",
-      "symbol": "LINK/USD",
-      "strategy": "reversal",
-      "side": "long",
-      "price": 8.7328,
-      "stop": 8.4064,
-      "target": 9.3856,
-      "prev_day_pct": -11.39,
-      "volatility": "volatile",
-      "backtest_win_rate": 0.325,
-      "backtest_avg_pct": -1.282,
-      "proven": false,
-      "score": 11.39,
-      "label": "not proven"
-    },
-    {
-      "market": "crypto",
-      "symbol": "SOL/USD",
-      "strategy": "reversal",
-      "side": "long",
-      "price": 69.335,
-      "stop": 66.8885,
-      "target": 74.228,
-      "prev_day_pct": -11.15,
-      "volatility": "volatile",
-      "backtest_win_rate": 0.325,
-      "backtest_avg_pct": -1.282,
-      "proven": false,
-      "score": 11.15,
-      "label": "not proven"
-    },
-    {
-      "market": "crypto",
-      "symbol": "LTC/USD",
-      "strategy": "reversal",
-      "side": "long",
-      "price": 44.199,
-      "stop": 42.3823,
-      "target": 47.8324,
-      "prev_day_pct": -11.02,
-      "volatility": "volatile",
-      "backtest_win_rate": 0.325,
-      "backtest_avg_pct": -1.282,
-      "proven": false,
-      "score": 11.02,
-      "label": "not proven"
-    }
-  ],
+  "crypto": [],
   "watch_prices": {
     "AAPL": 356.4,
     "ABNB": 186.73,
@@ -383,13 +302,13 @@
     "ZYN": 9.085
   },
   "crypto_prices": {
-    "BTC/USD": 63700,
-    "ETH/USD": 1742,
-    "SOL/USD": 69.335,
-    "XRP/USD": 0.9015,
-    "DOGE/USD": 0.05619,
-    "AVAX/USD": 6.98465,
-    "LINK/USD": 8.7328,
-    "LTC/USD": 44.199
+    "BTC/USD": 64723.95,
+    "ETH/USD": 1806.4,
+    "SOL/USD": 70.656,
+    "XRP/USD": 0.943553,
+    "DOGE/USD": 0.05589,
+    "AVAX/USD": 7.136,
+    "LINK/USD": 8.834,
+    "LTC/USD": 44.153
   }
 }
