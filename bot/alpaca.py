@@ -2,7 +2,7 @@
 
 The API key is read from environment variables (set from GitHub Secrets):
   ALPACA_KEY_ID, ALPACA_SECRET_KEY
-This module never places orders.
+This module only reads market data; paper orders are placed by bot/trade.py.
 """
 import os
 import time
