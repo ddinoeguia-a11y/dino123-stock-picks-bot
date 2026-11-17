@@ -2,3 +2,4 @@
 {"utc": "2026-11-17T14:44:25", "event": "enter", "symbol": "CUE", "side": "buy", "qty": 420, "limit": 11.88, "target": 13.6, "stop": 10.99, "strategy": "gapdown_bounce", "order_id": "48748905-b345-4346-8763-53ed54d42f36"}
 {"utc": "2026-11-17T14:44:25", "event": "enter", "symbol": "ABX", "side": "buy", "qty": 859, "limit": 5.82, "target": 6.35, "stop": 5.54, "strategy": "gapdown_bounce", "order_id": "64f51264-19fe-48d8-abe8-2a67b69f66d6"}
 {"utc": "2026-11-17T14:44:25", "event": "enter", "symbol": "PICS", "side": "buy", "qty": 970, "limit": 5.15, "target": 5.77, "stop": 4.82, "strategy": "gapdown_bounce", "order_id": "c93e5d69-23f0-4f85-87eb-bb8aace8a0a1"}
+{"utc": "2026-11-17T15:34:22", "event": "enter", "symbol": "TCX", "side": "sell", "qty": 356, "limit": 13.97, "target": 13.12, "stop": 14.44, "strategy": "gap_fade", "order_id": "aba2ab1e-fb32-4ef0-ab3e-5dbce0bb0b3e"}
