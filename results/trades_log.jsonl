@@ -8,3 +8,4 @@
 {"utc": "2026-11-18T15:34:07", "event": "enter", "symbol": "PRE", "side": "buy", "qty": 512, "limit": 9.71, "target": 11.2, "stop": 8.94, "strategy": "gapdown_bounce", "order_id": "d2061799-6117-45ee-b00b-4bdcf6e6af2a"}
 {"utc": "2026-11-18T15:34:07", "event": "enter", "symbol": "HY", "side": "buy", "qty": 256, "limit": 19.41, "target": 21.0, "stop": 18.56, "strategy": "gapdown_bounce", "order_id": "3fcadd73-6e59-45c9-b256-4818bb12d93e"}
 {"utc": "2026-11-18T18:27:36", "event": "enter", "symbol": "RFAI", "side": "buy", "qty": 169, "limit": 29.26, "target": 29.4, "stop": 29.1, "strategy": "gapdown_bounce", "order_id": "363ad5a5-8d96-460a-b997-0118ef1228e2"}
+{"utc": "2026-11-18T19:25:20", "event": "cancel", "symbol": "RFAI", "reason": "entry not filled in time"}
