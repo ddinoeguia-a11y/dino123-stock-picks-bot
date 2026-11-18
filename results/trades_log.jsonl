@@ -5,3 +5,5 @@
 {"utc": "2026-11-17T15:34:22", "event": "enter", "symbol": "TCX", "side": "sell", "qty": 356, "limit": 13.97, "target": 13.12, "stop": 14.44, "strategy": "gap_fade", "order_id": "aba2ab1e-fb32-4ef0-ab3e-5dbce0bb0b3e"}
 {"utc": "2026-11-18T14:40:20", "event": "enter", "symbol": "ARDT", "side": "buy", "qty": 357, "limit": 13.94, "target": 15.11, "stop": 13.31, "strategy": "gapdown_bounce", "order_id": "3ef97189-aa68-46c3-b2da-30966d7e01aa"}
 {"utc": "2026-11-18T14:40:20", "event": "enter", "symbol": "BRBR", "side": "sell", "qty": 378, "limit": 13.18, "target": 12.45, "stop": 13.59, "strategy": "gap_fade", "order_id": "2d2ea2cf-3f63-4fdd-9760-c4326bf46312"}
+{"utc": "2026-11-18T15:34:07", "event": "enter", "symbol": "PRE", "side": "buy", "qty": 512, "limit": 9.71, "target": 11.2, "stop": 8.94, "strategy": "gapdown_bounce", "order_id": "d2061799-6117-45ee-b00b-4bdcf6e6af2a"}
+{"utc": "2026-11-18T15:34:07", "event": "enter", "symbol": "HY", "side": "buy", "qty": 256, "limit": 19.41, "target": 21.0, "stop": 18.56, "strategy": "gapdown_bounce", "order_id": "3fcadd73-6e59-45c9-b256-4818bb12d93e"}
