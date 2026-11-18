@@ -1,17 +1,17 @@
 {
-  "utc": "2026-11-17T21:28:07",
-  "equity": "99430.22",
-  "cash": "94231.39",
-  "last_equity": "100000",
+  "utc": "2026-11-18T14:28:14",
+  "equity": "99561.76",
+  "cash": "94230.98",
+  "last_equity": "99478.82",
   "positions": [
     {
       "symbol": "OMER",
       "qty": "377",
       "side": "long",
       "avg_entry_price": "13.25",
-      "current_price": "13.79",
-      "unrealized_pl": "203.58",
-      "unrealized_plpc": "0.04075"
+      "current_price": "14.14",
+      "unrealized_pl": "335.53",
+      "unrealized_plpc": "0.06717"
     }
   ]
 }
