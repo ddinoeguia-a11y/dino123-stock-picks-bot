@@ -1,7 +1,7 @@
 {
-  "utc": "2026-11-19T16:40:38",
-  "equity": "100126.92",
-  "cash": "84345.86",
+  "utc": "2026-11-19T17:33:57",
+  "equity": "100002.08",
+  "cash": "79355.42",
   "last_equity": "100340.5",
   "positions": [
     {
@@ -9,27 +9,36 @@
       "qty": "357",
       "side": "long",
       "avg_entry_price": "13.91",
-      "current_price": "14.58",
-      "unrealized_pl": "239.19",
-      "unrealized_plpc": "0.04817"
+      "current_price": "14.57",
+      "unrealized_pl": "235.62",
+      "unrealized_plpc": "0.04745"
     },
     {
       "symbol": "OMER",
       "qty": "377",
       "side": "long",
       "avg_entry_price": "13.25",
-      "current_price": "14.3",
-      "unrealized_pl": "395.85",
-      "unrealized_plpc": "0.07925"
+      "current_price": "14.215",
+      "unrealized_pl": "363.805",
+      "unrealized_plpc": "0.07283"
     },
     {
       "symbol": "RRGB",
       "qty": "823",
       "side": "long",
       "avg_entry_price": "6.07",
-      "current_price": "6.3",
-      "unrealized_pl": "189.29",
-      "unrealized_plpc": "0.03789"
+      "current_price": "6.175",
+      "unrealized_pl": "86.415",
+      "unrealized_plpc": "0.0173"
+    },
+    {
+      "symbol": "SA",
+      "qty": "273",
+      "side": "long",
+      "avg_entry_price": "18.28",
+      "current_price": "18.33",
+      "unrealized_pl": "13.65",
+      "unrealized_plpc": "0.00274"
     }
   ]
 }
