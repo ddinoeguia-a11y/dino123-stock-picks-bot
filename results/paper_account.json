@@ -1,6 +1,6 @@
 {
-  "utc": "2026-11-24T21:19:16",
-  "equity": "100477.55",
+  "utc": "2026-11-24T21:32:04",
+  "equity": "100436.6",
   "cash": "79355.31",
   "last_equity": "100432.15",
   "positions": [
@@ -36,9 +36,9 @@
       "qty": "273",
       "side": "long",
       "avg_entry_price": "18.28",
-      "current_price": "18.25",
-      "unrealized_pl": "-8.19",
-      "unrealized_plpc": "-0.00164"
+      "current_price": "18.1",
+      "unrealized_pl": "-49.14",
+      "unrealized_plpc": "-0.00985"
     }
   ]
 }
