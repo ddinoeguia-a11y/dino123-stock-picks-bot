@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-26T14:38:11",
+  "generated_utc": "2026-11-26T14:46:11",
   "note": "Paper tracking only. Ideas, not orders.",
   "stocks": [
     {
@@ -374,13 +374,13 @@
     "XOM": 158.17
   },
   "crypto_prices": {
-    "BTC/USD": 60700,
-    "ETH/USD": 1701.14,
-    "SOL/USD": 71.3093,
-    "XRP/USD": 0.950344,
+    "BTC/USD": 60762.7,
+    "ETH/USD": 1697.7,
+    "SOL/USD": 71.151,
+    "XRP/USD": 0.94882,
     "DOGE/USD": 0.0570363,
     "AVAX/USD": 6.636,
     "LINK/USD": 9.226,
-    "LTC/USD": 43.76
+    "LTC/USD": 43.52
   }
 }
