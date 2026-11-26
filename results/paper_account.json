@@ -1,8 +1,8 @@
 {
-  "utc": "2026-11-25T21:36:26",
-  "equity": "100939.94",
+  "utc": "2026-11-26T14:38:12",
+  "equity": "100942.67",
   "cash": "79355.31",
-  "last_equity": "100560.49",
+  "last_equity": "100942.67",
   "positions": [
     {
       "symbol": "ARDT",
@@ -36,9 +36,9 @@
       "qty": "273",
       "side": "long",
       "avg_entry_price": "18.28",
-      "current_price": "18.98",
-      "unrealized_pl": "191.1",
-      "unrealized_plpc": "0.03829"
+      "current_price": "18.99",
+      "unrealized_pl": "193.83",
+      "unrealized_plpc": "0.03884"
     }
   ]
 }
