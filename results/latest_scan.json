@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-27T20:19:27",
+  "generated_utc": "2026-11-27T21:19:28",
   "note": "Paper tracking only. Ideas, not orders.",
   "stocks": [
     {
@@ -378,13 +378,13 @@
     "ZYN": 2.19
   },
   "crypto_prices": {
-    "BTC/USD": 59700,
-    "ETH/USD": 1667.1,
-    "SOL/USD": 71.9647,
-    "XRP/USD": 0.949302,
+    "BTC/USD": 59793.115,
+    "ETH/USD": 1665.45,
+    "SOL/USD": 71.9,
+    "XRP/USD": 0.950645,
     "DOGE/USD": 0.057656,
-    "AVAX/USD": 6.66355,
+    "AVAX/USD": 6.61497,
     "LINK/USD": 9.4251,
-    "LTC/USD": 43.76
+    "LTC/USD": 44.2217
   }
 }
