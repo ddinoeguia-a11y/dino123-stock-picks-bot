@@ -1,6 +1,6 @@
 {
-  "utc": "2026-11-27T18:26:28",
-  "equity": "102211.23",
+  "utc": "2026-11-27T19:26:01",
+  "equity": "102100.86",
   "cash": "79355.31",
   "last_equity": "100942.67",
   "positions": [
@@ -18,9 +18,9 @@
       "qty": "377",
       "side": "long",
       "avg_entry_price": "13.25",
-      "current_price": "14.7",
-      "unrealized_pl": "546.65",
-      "unrealized_plpc": "0.10943"
+      "current_price": "14.4",
+      "unrealized_pl": "433.55",
+      "unrealized_plpc": "0.08679"
     },
     {
       "symbol": "RRGB",
@@ -36,9 +36,9 @@
       "qty": "273",
       "side": "long",
       "avg_entry_price": "18.28",
-      "current_price": "21.38",
-      "unrealized_pl": "846.3",
-      "unrealized_plpc": "0.16958"
+      "current_price": "21.39",
+      "unrealized_pl": "849.03",
+      "unrealized_plpc": "0.17013"
     }
   ]
 }
